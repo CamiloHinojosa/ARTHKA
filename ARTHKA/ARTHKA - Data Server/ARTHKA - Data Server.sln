@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTHKA - Data Server", "ARTHKA - Data Server\ARTHKA - Data Server.csproj", "{481E0506-1D44-4842-98A8-DA0C77D75EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARTHKA Standar Library", "..\..\..\..\..\Desktop\ARTHKA\ARTHKA_SERVER_0.8 (Final)\ARTHKA_SERVER\ARTHKA Standar Library\ARTHKA Standar Library.csproj", "{63F08C48-9228-489D-9618-21A4344436CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLStandardLibrary", "ARTHKA - SQL Standard Library\SQLStandardLibrary.csproj", "{9C2A35E1-66DD-41C4-8ACF-AFF877E85852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationStandardLibrary", "SimpleSerializationLibrary\SerializationStandardLibrary.csproj", "{D6B0AC3C-6F72-4E12-8B83-935E3E3AFFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingStandardLibrary", "ThreadingStandartLibrary\ThreadingStandardLibrary.csproj", "{6C4FEC08-5F15-4AC1-8CF6-E16C8EF39257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481E0506-1D44-4842-98A8-DA0C77D75EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481E0506-1D44-4842-98A8-DA0C77D75EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481E0506-1D44-4842-98A8-DA0C77D75EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481E0506-1D44-4842-98A8-DA0C77D75EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F08C48-9228-489D-9618-21A4344436CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F08C48-9228-489D-9618-21A4344436CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F08C48-9228-489D-9618-21A4344436CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F08C48-9228-489D-9618-21A4344436CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2A35E1-66DD-41C4-8ACF-AFF877E85852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2A35E1-66DD-41C4-8ACF-AFF877E85852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2A35E1-66DD-41C4-8ACF-AFF877E85852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2A35E1-66DD-41C4-8ACF-AFF877E85852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B0AC3C-6F72-4E12-8B83-935E3E3AFFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B0AC3C-6F72-4E12-8B83-935E3E3AFFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B0AC3C-6F72-4E12-8B83-935E3E3AFFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B0AC3C-6F72-4E12-8B83-935E3E3AFFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4FEC08-5F15-4AC1-8CF6-E16C8EF39257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4FEC08-5F15-4AC1-8CF6-E16C8EF39257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4FEC08-5F15-4AC1-8CF6-E16C8EF39257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4FEC08-5F15-4AC1-8CF6-E16C8EF39257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

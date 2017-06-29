@@ -1,0 +1,5 @@
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\ARTHKA\ARTHKA - Data Server\ARTHKA - SQL Standard Library\bin\Debug\SQLStandardLibrary.dll
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\ARTHKA\ARTHKA - Data Server\ARTHKA - SQL Standard Library\bin\Debug\SQLStandardLibrary.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\ARTHKA\ARTHKA - Data Server\ARTHKA - SQL Standard Library\obj\Debug\SQLStandardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\ARTHKA\ARTHKA - Data Server\ARTHKA - SQL Standard Library\obj\Debug\SQLStandardLibrary.dll
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\ARTHKA\ARTHKA - Data Server\ARTHKA - SQL Standard Library\obj\Debug\SQLStandardLibrary.pdb
